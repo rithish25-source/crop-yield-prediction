@@ -1,7 +1,7 @@
 # Crop Yield Prediction using Machine Learning
 
 B.Tech ECE Project-1 (BECE497J), Vellore Institute of Technology, Vellore.
-Team: Madhavan A, Vigneshwaran J, Rithish Kumar S. Guide: Dr. Sri Haripriya K C.
+Team: Rithish Kumar S, Madhavan A, Vigneshwaran J. Guide: Dr. Sri Haripriya K C.
 
 ## Overview
 A machine learning model that forecasts crop yield from historical Indian crop-yield data. Accurate yield estimates help farmers, traders and policymakers plan resources, production, pricing and storage. The work supports UN SDGs 2 (Zero Hunger), 12 (Responsible Consumption and Production) and 13 (Climate Action).
