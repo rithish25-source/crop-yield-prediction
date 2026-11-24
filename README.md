@@ -4,7 +4,7 @@ B.Tech ECE Project-1 (BECE497J), Vellore Institute of Technology, Vellore.
 Team: Rithish Kumar S, Madhavan A, Vigneshwaran J. Guide: Dr. Sri Haripriya K C.
 
 ## Overview
-📄 [Full project report](Crop_Yield_Prediction_Project_Report.pdf).
+📄 [Full project report](Crop_Yield_Prediction_Project_Report.pdf)
 A machine learning model that forecasts crop yield from historical Indian crop-yield data. Accurate yield estimates help farmers, traders and policymakers plan resources, production, pricing and storage. The work supports UN SDGs 2 (Zero Hunger), 12 (Responsible Consumption and Production) and 13 (Climate Action).
 
 ## Approach
